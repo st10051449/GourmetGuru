@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrialAPI(XBCAD).props" />
+</Project>

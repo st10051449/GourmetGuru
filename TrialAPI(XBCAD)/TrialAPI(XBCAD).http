@@ -1,0 +1,6 @@
+@TrialAPI_XBCAD__HostAddress = http://localhost:5091
+
+GET {{TrialAPI_XBCAD__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
